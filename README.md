@@ -20,13 +20,13 @@ END POINT http://www.nactem.ac.uk/software/acromine/rest.html
 • Handle all the possible error cases
 
 
-DATA BINDING
-NAVIGATION
-MVVM
-RETROFIT
-OKHTTP
-MOSHI
-DAGGER / HILT
+DATA BINDING,
+NAVIGATION,
+MVVM,
+RETROFIT,
+OKHTTP,
+MOSHI,
+DAGGER / HILT,
 COROUTINES / CALLBACKS. / FLOWS
 
 UNIT TESTING
