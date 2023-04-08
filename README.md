@@ -12,14 +12,6 @@ Technical Details
 
 END POINT http://www.nactem.ac.uk/software/acromine/rest.html
 
-2. Project must conform to these parameters:
-• Project must be written in Native Android and Kotlin
-• Use MVVM architecture and Data binding
-• You can use any third-party component for networking module
-• Basic testcases should be added
-• Handle all the possible error cases
-
-
 DATA BINDING
 NAVIGATION
 MVVM
